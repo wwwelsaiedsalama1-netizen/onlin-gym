@@ -248,11 +248,11 @@ td, th{
     display: flex;
     justify-content: center;
     gap: 80px;
-    background-color: rgba(106, 160, 241, 0.411);
+    background-color: rgb(125, 167, 207);
     margin: 50px 0;
-    height: 50px;
+    height: 90px;
     align-items: center;
-    border-radius: 40px;
+    border-radius: 50px;
     font-size: 25px;
     font-weight: 1000px;
     font-style: italic;
@@ -262,7 +262,7 @@ td, th{
     list-style: none;  
 }
 .social ul li a:hover{
-    color: #1263dd;
+    color: #dd9d12;
     cursor: pointer;
 }
 hr{
@@ -294,9 +294,4 @@ hr{
     display: flex;
     justify-content: end;
     margin: 20px;
-}
-UL LI A I{
-    
-    
-   
 }
