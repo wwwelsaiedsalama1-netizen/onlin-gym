@@ -272,24 +272,21 @@ hr{
     margin: 50px auto;
 }
 .media h3{
-    color: #28ea01;
+    color: #ffffff;
     font-weight: 900;
     font-style: italic;
     border: #01ea37 2px solid;
     padding: 10px;
     border-radius: 20px;
     background-color: rgba(34, 74, 206, 0.507);
-    box-shadow:1px 1px 4px 5px rgb(25, 9, 199);
+    font-size: larger;
+    box-shadow:1px 1px 4px 10px rgb(104, 9, 199);
     width: fit-content;
     direction: rtl;
 }
 
-.media h3 span{
-    color: #eae601;
-    font-size: 30px;
-    font-weight: 900;
-    font-style: italic;
-}
+
+
 .media{
     display: flex;
     justify-content: end;
